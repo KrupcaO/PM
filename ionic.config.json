@@ -1,0 +1,7 @@
+{
+  "name": "news_api_demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
